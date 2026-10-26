@@ -2,7 +2,7 @@ import json
 import pathlib
 
 import joblib
-from sklearn.datasets import load_iris
+# from sklearn.datasets import load_iris
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import accuracy_score, confusion_matrix
 from sklearn.model_selection import train_test_split
